@@ -1,0 +1,57 @@
+Type of paddy like rnr , hmt, jsr, …
+Moisture content
+Dry or moisture?
+Old or New
+Boiled or Raw rice
+Quality of rice
+Biyyam ?
+Impurities?
+Loading price
+Delivery price
+Shoot per ton?
+Bag type: plastic or jute?
+Commission per quintal
+Unloading per quintal
+Transport charge
+Cash cutting ?
+How many days payment with cc
+How many days payment without cc
+Loading/Taadu mamulu
+Location
+Rice mill Address
+With or without bill?
+Bill book pages present?
+eWay bill?
+Advance amount
+Weigh bridge
+Loading amount for workers for each bag
+Paddy papers
+Driving license
+RC
+Photo
+Lorry office
+Lorry Kirai
+Waiting
+Lorry Commission if any
+Driver name
+Owner name
+Owner number
+Date
+Which way you will go
+Phone number
+Lorry number
+No of kms from loading point to unloading point
+No of rice mills with same price
+GST No
+
+Loading price for trader
+Cc
+Shoot
+Tonnage
+Chess
+Loading money by trader only.
+
+Paddy papers sufficiently there I mean spare papers for future lorries and present lorry
+
+
+Car and bike proper condition right?
